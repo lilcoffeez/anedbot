@@ -1,0 +1,2 @@
+# anedbot
+https://discordapp.com/api/webhooks/713133142533472256/d5WCwrEMLXjKWg4VI4zsR4JccPrMqyeQ-ikeGg_R08NNTX0cmdN6xjOpPd8qKEb0tZtc
